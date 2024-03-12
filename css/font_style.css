@@ -1,0 +1,6 @@
+/* font */
+@font-face {
+    font-family: 'PixelMplus12';
+    src: url('../font/PixelMplus12-Regular.ttf') format('truetype'), /* モダンブラウザ用 */
+         url('../font/PixelMplus12-Regular.wolf') format('woff'); /* 古いブラウザ用 */
+}
